@@ -2,29 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f45fc509-f11e-40f5-9897-14a3db74b56f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/10.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/11.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/12.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/13.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/14.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/15.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/16.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/17.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/18.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/19.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/20.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/4.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/6.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/7.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/8.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/9.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pictures/vector/kitchen.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/12.svg" afterPath="$PROJECT_DIR$/pictures/vector/12.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/13.svg" afterPath="$PROJECT_DIR$/pictures/vector/13.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/16.svg" afterPath="$PROJECT_DIR$/pictures/vector/16.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/17.svg" afterPath="$PROJECT_DIR$/pictures/vector/17.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/18.svg" afterPath="$PROJECT_DIR$/pictures/vector/18.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/19.svg" afterPath="$PROJECT_DIR$/pictures/vector/19.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/20.svg" afterPath="$PROJECT_DIR$/pictures/vector/20.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/4.svg" afterPath="$PROJECT_DIR$/pictures/vector/4.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/7.svg" afterPath="$PROJECT_DIR$/pictures/vector/7.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pictures/vector/9.svg" afterPath="$PROJECT_DIR$/pictures/vector/9.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fsm.iws" />
@@ -47,16 +34,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="11.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pictures/vector/11.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6298701">
-              <caret line="118" column="47" selection-start-line="118" selection-start-column="47" selection-end-line="118" selection-end-column="47" />
-              <folding>
-                <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#section#35;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pictures/vector/12.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pictures/vector/13.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,7 +88,7 @@
         <entry file="file://$PROJECT_DIR$/pictures/vector/16.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -95,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/pictures/vector/17.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -105,7 +108,7 @@
         <entry file="file://$PROJECT_DIR$/pictures/vector/18.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -115,27 +118,17 @@
         <entry file="file://$PROJECT_DIR$/pictures/vector/19.svg">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="20.svg" pinned="false" current-in-tab="false">
+      <file leaf-file-name="20.svg" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pictures/vector/20.svg">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kitchen.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pictures/vector/kitchen.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.06967213">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -162,25 +155,25 @@
         <option value="$PROJECT_DIR$/pictures/vector/1.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/2.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/3.svg" />
-        <option value="$PROJECT_DIR$/pictures/vector/4.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/5.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/6.svg" />
-        <option value="$PROJECT_DIR$/pictures/vector/7.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/8.svg" />
-        <option value="$PROJECT_DIR$/pictures/vector/9.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/10.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/11.svg" />
-        <option value="$PROJECT_DIR$/pictures/vector/12.svg" />
-        <option value="$PROJECT_DIR$/pictures/vector/13.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/14.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/15.svg" />
+        <option value="$PROJECT_DIR$/pictures/vector/kitchen.svg" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pictures/vector/12.svg" />
+        <option value="$PROJECT_DIR$/pictures/vector/4.svg" />
+        <option value="$PROJECT_DIR$/pictures/vector/7.svg" />
+        <option value="$PROJECT_DIR$/pictures/vector/9.svg" />
+        <option value="$PROJECT_DIR$/pictures/vector/13.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/16.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/17.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/18.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/19.svg" />
         <option value="$PROJECT_DIR$/pictures/vector/20.svg" />
-        <option value="$PROJECT_DIR$/pictures/vector/kitchen.svg" />
-        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -310,24 +303,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="vector" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fsm" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Lets cook agile" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pictures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -662,12 +637,19 @@
       <workItem from="1434460653996" duration="366000" />
       <workItem from="1434461127106" duration="7758000" />
       <workItem from="1434491514799" duration="700000" />
-      <workItem from="1434492282170" duration="4453000" />
+      <workItem from="1434492282170" duration="4698000" />
     </task>
+    <task id="LOCAL-00001" summary="Добавил векторных картинок и текст на русском">
+      <created>1434496808965</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1434496808965</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45301000" />
+    <option name="totallyTimeSpent" value="45546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
@@ -676,6 +658,7 @@
       <window_info id="PlantUML" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -713,6 +696,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Добавил векторных картинок и текст на русском" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил векторных картинок и текст на русском" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -885,6 +872,34 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pictures/vector/kitchen.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FSM Programming/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7122905">
+          <caret line="165" column="8" selection-start-line="165" selection-start-column="8" selection-end-line="165" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.192307">
+          <caret line="118" column="47" selection-start-line="118" selection-start-column="47" selection-end-line="118" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#section#35;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pictures/vector/1.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -912,7 +927,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/4.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -936,7 +951,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/7.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -952,7 +967,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/9.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -976,7 +991,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/12.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -984,7 +999,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/13.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1008,7 +1023,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/16.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1016,7 +1031,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/17.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1024,7 +1039,7 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/18.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1032,44 +1047,16 @@
     <entry file="file://$PROJECT_DIR$/pictures/vector/19.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pictures/vector/20.svg">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.06967213">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pictures/vector/kitchen.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../FSM Programming/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7122905">
-          <caret line="165" column="8" selection-start-line="165" selection-start-column="8" selection-end-line="165" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6298701">
-          <caret line="118" column="47" selection-start-line="118" selection-start-column="47" selection-end-line="118" selection-end-column="47" />
-          <folding>
-            <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#section#35;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
